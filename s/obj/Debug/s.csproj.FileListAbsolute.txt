@@ -1,0 +1,55 @@
+c:\users\user\documents\visual studio 2013\Projects\s\s\bin\Debug\s.exe.config
+c:\users\user\documents\visual studio 2013\Projects\s\s\bin\Debug\s.exe
+c:\users\user\documents\visual studio 2013\Projects\s\s\bin\Debug\s.pdb
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.exe
+c:\users\user\documents\visual studio 2013\Projects\s\s\obj\Debug\s.pdb
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\bin\Debug\s.exe.config
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.exe
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.pdb
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.Form1.resources
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.Form2.resources
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.Properties.Resources.resources
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\obj\Debug\s.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\bin\Debug\s.exe
+C:\Users\user\Desktop\Visual Studio 2013\Projects\s\s\bin\Debug\s.pdb
+D:\last1\s\s\bin\Debug\s.exe.config
+D:\last1\s\s\obj\Debug\s.exe
+D:\last1\s\s\obj\Debug\s.pdb
+D:\last1\s\s\bin\Debug\s.exe
+D:\last1\s\s\bin\Debug\s.pdb
+D:\last1\s\s\obj\Debug\s.csprojResolveAssemblyReference.cache
+D:\last1\s\s\obj\Debug\s.Form1.resources
+D:\last1\s\s\obj\Debug\s.Form2.resources
+D:\last1\s\s\obj\Debug\s.Properties.Resources.resources
+D:\last1\s\s\obj\Debug\s.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\last1\s\s\bin\Debug\s.exe.config
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.exe
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.pdb
+C:\Users\user\Desktop\last1\s\s\bin\Debug\s.exe
+C:\Users\user\Desktop\last1\s\s\bin\Debug\s.pdb
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.Form1.resources
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.Form2.resources
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.Properties.Resources.resources
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\last1\s\s\obj\Debug\s.start.resources
+D:\last1\s\s\obj\Debug\s.start.resources
+C:\Users\user\Desktop\project\last1\s\s\bin\Debug\s.exe.config
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.exe
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.pdb
+C:\Users\user\Desktop\project\last1\s\s\bin\Debug\s.exe
+C:\Users\user\Desktop\project\last1\s\s\bin\Debug\s.pdb
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.Form1.resources
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.Form2.resources
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.Properties.Resources.resources
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.start.resources
+C:\Users\user\Desktop\project\last1\s\s\obj\Debug\s.csproj.GenerateResource.Cache
+D:\project\last1\s\s\bin\Debug\s.exe.config
+D:\project\last1\s\s\obj\Debug\s.exe
+D:\project\last1\s\s\obj\Debug\s.pdb
